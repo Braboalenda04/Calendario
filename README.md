@@ -2,6 +2,8 @@
 
 Este é um código HTML que cria um calendário interativo. Ele exibe um calendário com dias do mês e permite que o usuário escolha uma cor para destacar um dia específico.
 
+![image info](CAPUTURA-%20(1).gif)
+
 ## Funcionalidades
 * Exibe um calendário com os dias do mês.
 * Permite a seleção de uma cor para destacar um dia.
