@@ -18,4 +18,4 @@ Você pode personalizar as opções de cores e limites de dia conforme necessár
 
 ## Autor
 
-Este código foi criado por [Gabriel]
+Este código foi criado por [Gabriel](https://github.com/Braboalenda04)
