@@ -1,6 +1,6 @@
 # Calendário Interativo
 
-Este é um código HTML que cria um calendário interativo. Ele exibe um calendário com dias do mês e permite que o usuário escolha uma cor para destacar um dia específico.
+Este é um código HTML5 que cria um calendário interativo. Ele exibe um calendário com dias do mês e permite que o usuário escolha uma cor para destacar um dia específico.
 
 ![image info](CAPUTURA-%20(1).gif)
 
@@ -10,13 +10,13 @@ Este é um código HTML que cria um calendário interativo. Ele exibe um calend�
 * Permite que o usuário insira o número do dia desejado
 * Ao clicar no botão "Aplicar", o dia selecionado será destacado com a cor escolhida. 
 ## Uso
-1. Abra o arquivo HTML em seu navegador.
+1. Abra o arquivo HTML5 em seu navegador.
 2. Escolha uma cor no menu suspenso.
 3. Insira o número do dia que deseja destacar.
 4. Clique no botão "Aplicar" para destacar o dia selecionado.
 ## Personalização 
 
-Você pode personalizar as opções de cores e limites de dia conforme necessário, editando o código HTML.
+Você pode personalizar as opções de cores e limites de dia conforme necessário, editando o código HTML5.
 
 ## Autor
 
