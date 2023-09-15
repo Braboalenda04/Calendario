@@ -8,7 +8,7 @@ Este é um código HTML que cria um calendário interativo. Ele exibe um calend�
 * Exibe um calendário com os dias do mês.
 * Permite a seleção de uma cor para destacar um dia.
 * Permite que o usuário insira o número do dia desejado
-* Ao clicar no botão "Aplicar", o dia selecionado será destacado com a cor escolhida.
+* Ao clicar no botão "Aplicar", o dia selecionado será destacado com a cor escolhida. 
 ## Uso
 1. Abra o arquivo HTML em seu navegador.
 2. Escolha uma cor no menu suspenso.
